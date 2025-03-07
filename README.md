@@ -17,6 +17,15 @@ TeX是一个排版系统，非常适合用来排版学术类文章、报告和�
 
 
 
+# Overleaft版本
+
+
+建议使用Overleaft的，这是个在线LaTex网站，免去安装Tex环境问题。不过他的免费版好像最大只能到20M左右，多了就超时了。
+
+
+
+
+
 # License
 [MIT](https://github.com/LuYang-2023/TUTthesis/edit/main/LICENSE)
 
