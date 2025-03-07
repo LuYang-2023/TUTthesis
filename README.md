@@ -13,5 +13,9 @@
 
 
 
+# Liceense
+[MIT](https://github.com/LuYang-2023/TUTthesis/edit/main/LICENSE)
+
+
 
 
