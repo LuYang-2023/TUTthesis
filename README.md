@@ -17,7 +17,7 @@ TeX是一个排版系统，非常适合用来排版学术类文章、报告和�
 
 
 
-# Liceense
+# License
 [MIT](https://github.com/LuYang-2023/TUTthesis/edit/main/LICENSE)
 
 
