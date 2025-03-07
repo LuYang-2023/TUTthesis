@@ -2,7 +2,7 @@
 
 
 
-# TUTthesis（天津理工大学学位论文LaTex模板）
+# TUTthesis（天津理工大学硕士学位论文LaTex模板）
 
 # 欢迎使用
 
