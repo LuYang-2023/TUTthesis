@@ -76,6 +76,6 @@ TeX作为专业排版领域的标杆工具，其非所见即所得（WYSIWYM）�
 
 # 致谢
 
-
+本项目是基于[天津大学学位论文LaTeX模板].(https://code.google.com/archive/p/tjuthesis/)修改而来，在此感谢张井与余蓝涛两位学长的贡献。
 
 
