@@ -2,7 +2,7 @@
 
 
 
-# TUTthesis（天津理工大学硕士学位论文LaTex模板）
+# TUTthesis
 
 # 欢迎使用
 
@@ -38,7 +38,7 @@ TeX作为专业排版领域的标杆工具，其非所见即所得（WYSIWYM）�
 * **跨平台兼容**：模板支持Windows、macOS和Linux等操作系统，用户可以在不同的平台上使用相同的模板进行论文撰写。
 
 
-# Overleaft版本
+# Overleaf版本
 
 
 建议使用Overleaft的，这是个在线LaTex网站，免去安装Tex环境问题。不过他的免费版好像最大只能到20M左右，多了就超时了。
