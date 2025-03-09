@@ -1,0 +1,45 @@
+% !Mode:: "TeX:UTF-8"
+
+%%  可通过增加或减少 setup/format.tex中的
+%%  第274行 \setlength{\@title@width}{8cm}中 8cm 这个参数来 控制封面中下划线的长度。
+
+% \cheading{天津理工大学硕士学位 \leftmark}      % 设置正文的页眉，需要填上对应的毕业年份
+\cheading{%
+    \begin{minipage}[t]{0.35\textwidth} % 左侧部分
+        \raggedright \song\wuhao 天津理工大学硕士学位论文
+    \end{minipage}%
+    \begin{minipage}[t]{0.65\textwidth} % 右侧部分
+        \raggedleft \song\wuhao \leftmark
+    \end{minipage}%
+}
+
+\ctitle{基于顾客有限理性预期的定价与供应链结构}    % 封面用论文标题，自己可手动断行
+\caffil{管理与经济学部} % 学院名称
+\csubject{工业工程}   % 专业名称
+\cgrade{2012~级}            % 年级
+\cauthor{秦昱博}            % 学生姓名
+\cnumber{3012209017}        % 学生学号
+\csupervisor{杨道箭}        % 导师姓名
+\crank{副教授}              % 导师职称
+
+\cdate{\the\year~年~\the\month~月~\the\day~日}
+
+\cdeclaration{
+本人声明：所呈交的毕业设计（论文），是本人在指导教师指导下，进行研究工作所取得的成果。除文中已经注明引用的内容外，本毕业设计（论文）中不包含任何他人已经发表或撰写过的研究成果。对本毕业设计（论文）所涉及的研究工作做出贡献的其他个人和集体，均已在论文中作了明确的说明。本毕业设计（论文）原创性声明的法律责任由本人承担。
+}
+
+\cabstract{
+这里写摘要，但是没必要，还是Word生成然后插入上去更方便。
+}
+
+\ckeywords{硕士毕业论文，LaTex，模板}
+
+\eabstract{
+Write the Abstract here, but it's not necessary, it's easier to generate it in Word and then insert it.
+}
+
+\ekeywords{Master's thesis, LaTex, template}
+
+\makecover
+
+\clearpage
