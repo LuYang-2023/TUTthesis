@@ -68,5 +68,9 @@ TeX作为专业排版领域的标杆工具，其非所见即所得（WYSIWYM）�
 # 致谢
 
 1、本项目是基于[《天津大学学位论文LaTeX模板》](https://code.google.com/archive/p/tjuthesis/)与[《天津大学学位论文》](https://github.com/twtstudio/TJUThesisLatexTemplate)修改而来，在此感谢张井与余蓝涛等学长的贡献。
+
+
 2、感谢[小金鱼儿学长](https://haoyu.love/)书写的LaTex模板。
+
+
 3、部分Readme参考[东南大学LaTex模板](https://github.com/DansYU/SeuThesiY)。
