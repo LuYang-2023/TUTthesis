@@ -46,7 +46,7 @@ TeX作为专业排版领域的标杆工具，其非所见即所得（WYSIWYM）�
 建议使用[Overleaf](https://www.overleaf.com/project)，这是个在线LaTex网站，免去安装Tex环境问题。不过他的免费版好像最大只能到20M左右，多了就超时了。
 
 
-已上传，不过需要Overlaef官方审核1到2周，到时候我在把链接加上。**请注意：编辑器使用XeLaTeX进行编译**。
+Overleaf目前不支持上传高校非官方模板，故而只能将GitHub上的下载下来，然后把压缩包拖入仅Overleaf。**请注意：编辑器使用XeLaTeX进行编译**。
 
 
 
